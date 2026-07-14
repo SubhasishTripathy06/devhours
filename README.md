@@ -1,4 +1,4 @@
-# devhours
+# Devhours
 DevHours is a minimal, no-nonsense time tracker built specifically for a solo engineering student who wants to stay honest about how much work they're actually putting into their side projects.
 The core idea is simple: you have projects, each with a target number of hours you want to invest, and a timer you start and stop as you work. Over time you can see exactly how far along you are on each one — not by guessing, but by the actual hours you've logged.
 It looks and feels like a tool a developer would actually want to open every day. Dark theme, clean cards, a satisfying circular progress ring when you drill into a project, monospace numbers for all the time data. Nothing flashy, nothing in the way.
